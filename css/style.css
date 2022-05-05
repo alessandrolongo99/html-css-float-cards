@@ -18,7 +18,7 @@ h1{
 }
 
 main{
-    width: 60%;
+    width: 65%;
     margin: 0 auto;
 }
 
@@ -52,6 +52,7 @@ img{
     color: white;
     display: inline-block;
     vertical-align: middle;
+    margin-left: 10px;
 }
 
 .info *{
