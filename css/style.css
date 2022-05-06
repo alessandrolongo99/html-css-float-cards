@@ -28,7 +28,7 @@ p{
     font-weight: 100;
 }
 
-section::after{
+.clearfix::after{
     content: "";
     display: table;
     clear: both;
